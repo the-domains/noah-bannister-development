@@ -6,9 +6,9 @@ color:
   saturation: 0.0698377680964768
   rhythmicContrast: 0.006002509966492653
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Noah Bannister Development
